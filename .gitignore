@@ -34,6 +34,3 @@ next-env.d.ts
 
 #log
 package-lock.json
-
-#tailwin
-postcss.config.js
